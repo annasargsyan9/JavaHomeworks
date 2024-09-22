@@ -16,11 +16,8 @@ public class StringRepetition {
         System.out.println("How many times you want it to be repeated");
 
         int times = scanner4.nextInt();
-        StringBuilder repeatedString = new StringBuilder();
         for (int j = 0; j < times; j++) {
-            repeatedString.append(inputString);
-
+          System.out.print(inputString);
         }
-        System.out.println(repeatedString);
     }
 }
