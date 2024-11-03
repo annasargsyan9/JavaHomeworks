@@ -122,27 +122,7 @@ public class HomeworkLooping {
 
 
 
-//                Write a program that takes as an input an integer number representing half of the number of rows and displays diamond-like patterns.
-//                Example:
-//        Input: 3
-//        Output:
-//*
-// **
-// ****
-//* * * * ***
-//  ****
-//  **
-//
-//        Arrays
-//        Write a program that finds the maximum and the minimum value of an integer array.
-//                Write a program that removes the given element from an array.
-//        Example:
-//        Initial array: [1][2][3][4]
-//        Remove: 2
-//        Final array: [1][3][4][]
-//        Write a program that finds all combinations of four elements of a given integer array, whose sum is equal to the given value.
-//
-//
+
 
 
 

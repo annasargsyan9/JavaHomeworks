@@ -18,9 +18,9 @@ public class StringRepetition {
         int times = scanner4.nextInt();
         StringBuilder repeatedString = new StringBuilder();
         for (int j = 0; j < times; j++) {
-            repeatedString.append(inputString);
-
+          // repeatedString.append(inputString);
+            System.out.print(inputString);
         }
-        System.out.println(repeatedString);
+      //  System.out.println(repeatedString);
     }
 }
